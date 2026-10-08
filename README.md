@@ -8,4 +8,4 @@ The application listens on port 8000 and returns a text response when accessed o
 
 ## Verification
 
-The running application should be verified using an HTTP request to port 8000.
+The running application should be verified by checking that the response includes the status line with the NetID.
