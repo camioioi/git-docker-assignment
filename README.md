@@ -8,4 +8,6 @@ The application listens on port 8000 and returns a text response when accessed o
 
 ## Verification
 
-The running application should be verified by running curl http://localhost:8080 after starting the container.
+The running application should be verified by running curl http://localhost:8080 after starting the container, and 
+checking that the response includes the status line with the NetID.
+
